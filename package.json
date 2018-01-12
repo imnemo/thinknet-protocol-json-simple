@@ -1,0 +1,30 @@
+{
+  "name": "thinknet-protocol-json-simple",
+  "version": "1.0.0-alpha",
+  "description": "simple JSON data protocol for ThinkNet, an easy to use and koa.js or express.js middleware style net programming framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imnemo/thinknet-protocol-json-simple.git"
+  },
+  "keywords": [
+    "net",
+    "thinknet",
+    "protocol",
+    "koa",
+    "express",
+    "middleware",
+    "addon",
+    "nodejs",
+    "node-module"
+  ],
+  "author": "imnemo <oncoding1988@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imnemo/thinknet-protocol-json-simple/issues"
+  },
+  "homepage": "https://github.com/imnemo/thinknet-protocol-json-simple#readme"
+}
