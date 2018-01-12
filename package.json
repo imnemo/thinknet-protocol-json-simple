@@ -1,6 +1,6 @@
 {
   "name": "thinknet-protocol-json-simple",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "description": "simple JSON data protocol for ThinkNet, an easy to use and koa.js or express.js middleware style net programming framework",
   "main": "index.js",
   "scripts": {

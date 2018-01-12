@@ -3,4 +3,4 @@ simple JSON data protocol for ThinkNet, a easy to use and koa.js or express.js m
 
 # Usage
 
-check [thinknet](/imnemo/thinknet) and [thinknet-examples](/imnemo/thinknet-examples) for more details
+check [thinknet](https://github.com/imnemo/thinknet) and [thinknet-examples](https://github.com/imnemo/thinknet-examples) for more details
