@@ -1,5 +1,5 @@
 const debug = require('debug')('thinknet')
-const {Protocol} = require('../thinknet')
+const {Protocol} = require('thinknet')
 
 class ProtocolJsonSimple extends Protocol {
   constructor(opt = {}) {

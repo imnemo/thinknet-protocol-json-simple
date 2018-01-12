@@ -26,5 +26,9 @@
   "bugs": {
     "url": "https://github.com/imnemo/thinknet-protocol-json-simple/issues"
   },
-  "homepage": "https://github.com/imnemo/thinknet-protocol-json-simple#readme"
+  "homepage": "https://github.com/imnemo/thinknet-protocol-json-simple#readme",
+  "dependencies": {
+    "debug": "3.1.0",
+    "thinknet": "0.0.1"
+  }
 }
